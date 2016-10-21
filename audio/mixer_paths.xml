@@ -792,7 +792,10 @@
 	</path>
 
 	<path name="voice-speaker-mic">
-		<path name="mic4" />
+		<path name="AOV" />
+		<ctl name="SLIM_0_TX Channels" value="Two" />
+		<ctl name="SLIMTX1 Input 1" value="IN3L" />
+		<ctl name="SLIMTX2 Input 1" value="IN2L" />
 	</path>
 
 	<path name="voice-headphones">
